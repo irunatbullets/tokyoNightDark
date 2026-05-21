@@ -1,33 +1,24 @@
 {
-  "id": "tokyoNightRefined",
-  "name": "TokyoNight Refined",
-  "version": "1.3.0",
-  "author": "You",
-  "description": "Closer match to the original Tokyo Night Night/Moon editor themes",
+  "id": "tokyoNightDark",
+  "name": "TokyoNight Dark",
+  "version": "1.0.0",
+  "author": "irunabullets",
+  "description": "Closer match to the original Tokyo Night Dark editor themes",
   "dark": {
     "primary": "#89b4fa",
     "primaryText": "#1a1b26",
-
     "primaryContainer": "#24283b",
-
     "secondary": "#bb9af7",
-
     "surface": "#1a1b26",
     "surfaceText": "#a9b1d6",
-
     "surfaceVariant": "#24283b",
     "surfaceVariantText": "#9aa5ce",
-
     "surfaceTint": "#89b4fa",
-
     "background": "#16161e",
     "backgroundText": "#c0caf5",
-
     "outline": "#565f89",
-
     "surfaceContainer": "#1a1b26",
     "surfaceContainerHigh": "#1f2335",
-
     "error": "#f7768e",
     "warning": "#e0af68",
     "info": "#89ddff"
@@ -36,32 +27,23 @@
   "light": {
     "primary": "#82aaff",
     "primaryText": "#1e2030",
-
     "primaryContainer": "#2f334d",
-
     "secondary": "#c099ff",
-
     "surface": "#222436",
     "surfaceText": "#a9b8e8",
-
     "surfaceVariant": "#2f334d",
     "surfaceVariantText": "#828bb8",
-
     "surfaceTint": "#82aaff",
-
     "background": "#1b1d2b",
     "backgroundText": "#c8d3f5",
-
     "outline": "#565f89",
-
     "surfaceContainer": "#222436",
     "surfaceContainerHigh": "#2a2e45",
-
     "error": "#ff757f",
     "warning": "#ffc777",
     "info": "#86e1fc"
   },
 
-  "sourceDir": "tokyoNightRefined"
+  "sourceDir": "tokyoNightDark"
 }
 
